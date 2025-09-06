@@ -1,0 +1,12 @@
+# Project configuration
+project_name = "flaskapp"
+
+# MySQL configuration
+mysql_root_password = "rootpassword123"
+mysql_database      = "mylistdb"
+mysql_user         = "admin"
+mysql_password     = "password"
+
+# Flask application configuration
+flask_host_port      = 5000
+flask_container_port = 5000
